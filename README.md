@@ -89,7 +89,7 @@ INSERT INTO testrt VALUES(5,'List of ASUS ultrabooks and laptops','Zenbook Vivob
 #### Query
 ##### SphinxQL
 ```
-> SELECT * FROM testrt WHERE MATCH('alien');
+> SELECT * FROM testrt WHERE MATCH('list laptops');
 +------+------+
 | id   | gid  |
 +------+------+
